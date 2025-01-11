@@ -30,17 +30,14 @@ public class NumberGuessingGame {
                     score++;
                 } else {
                     int difference = Math.abs(userGuess - numberToGuess);
-
                     if (difference <= 6) {
                         System.out.println("Almost there! You're very close.");
                     } else {
-                        System.out.println("Too far away!");
-                    }
-
-                    if (userGuess < numberToGuess) {
-                        System.out.println("Too low! Try again.");
-                    } else {
-                        System.out.println("Too high! Try again.");
+                        if (userGuess < numberToGuess) {
+                            System.out.println("Too low! Try again.");
+                        } else {
+                            System.out.println("Too high! Try again.");
+                        }
                     }
                 }
 
@@ -59,3 +56,4 @@ public class NumberGuessingGame {
         System.out.println("Thank you for playing! Final score: " + score);
     }
 }
+
