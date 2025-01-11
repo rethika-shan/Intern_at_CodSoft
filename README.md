@@ -21,7 +21,7 @@ A system that:
 ![image](https://github.com/user-attachments/assets/dd6da5e2-3a46-4a7d-9524-2c205132c90f)
 
 ---
-## TASK 4: ATM Interface
+## TASK 3: ATM Interface
 A user-friendly Java-based ATM simulation that allows users to:
 
 - Check Balance: View the current account balance.
