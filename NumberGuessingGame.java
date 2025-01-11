@@ -4,6 +4,7 @@ import java.util.Random;
 
 public class NumberGuessingGame {
     public static void main(String[] args) {
+        @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
 
@@ -30,6 +31,7 @@ public class NumberGuessingGame {
                     score++;
                 } else {
                     int difference = Math.abs(userGuess - numberToGuess);
+
                     if (difference <= 6) {
                         System.out.println("Almost there! You're very close.");
                     } else {
@@ -56,4 +58,3 @@ public class NumberGuessingGame {
         System.out.println("Thank you for playing! Final score: " + score);
     }
 }
-
