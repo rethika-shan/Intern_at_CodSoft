@@ -6,7 +6,7 @@ public class MarksCalculator {
         Scanner scanner = new Scanner(System.in);
 	
 	//Display...
-	System.out.println("---------- Grading Criteria ----------");
+	System.out.println("\n---------- Grading Criteria ----------");
         System.out.println("O: 90% and above");
 	System.out.println("A: 80% to less than 90%");
 	System.out.println("B: 75% to less than 80%");
