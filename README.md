@@ -8,6 +8,7 @@ An interactive game where:
 - The user guesses the number with feedback (too high/low/correct).
 - Features include limited attempts, multi-round gameplay, and performance-based scoring.
 ### Output
+![image](https://github.com/user-attachments/assets/dd6da5e2-3a46-4a7d-9524-2c205132c90f)
 
 ---
 ## TASK 2: Marks Calculator
