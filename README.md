@@ -2,7 +2,7 @@
 This repository contains Java programs developed during my internship at CodSoft. Each task is designed to demonstrate logical problem-solving, user-centric features, and programming fundamentals.
 
 ---
-## TASK 1: Number Guessing Game
+## TASK 1: Number Game
 An interactive game where:
 - A random number is generated within a specified range (1–100).
 - The user guesses the number with feedback (too high/low/correct).
@@ -11,7 +11,7 @@ An interactive game where:
 ![image](https://github.com/user-attachments/assets/dd6da5e2-3a46-4a7d-9524-2c205132c90f)
 
 ---
-## TASK 2: Marks Calculator
+## TASK 2: Student Grade Calculator
 A system that:
 - Accepts subject marks (out of 100).
 - Calculates total marks, average percentage, and assigns grades based on predefined criteria.
@@ -19,7 +19,7 @@ A system that:
 ### Output
 
 ---
-## TASK 4: Quiz Application
+## TASK 4: Quiz Application With Timer
 A feature-rich quiz platform that:
 - Displays timed multiple-choice questions with a countdown for each question.
 - Calculates scores based on correct answers.
