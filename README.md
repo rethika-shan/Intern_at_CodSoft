@@ -35,14 +35,10 @@ cd path\to\your\java\file
 
 - Compile the program using the javac command:
 javac FileName.java
-Example:
-javac NumberGuessingGame.java
 
 ### 2. Run the Program
 - Execute the compiled program using the java command:
 java FileName
-Example:
-java NumberGuessingGame
 
 ### 3. Provide Inputs
 Follow the prompts displayed by the program to interact and test functionality.
