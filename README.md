@@ -21,12 +21,16 @@ A system that:
 ![image](https://github.com/user-attachments/assets/dd6da5e2-3a46-4a7d-9524-2c205132c90f)
 
 ---
-## TASK 4: Quiz Application With Timer
-A feature-rich quiz platform that:
-- Displays timed multiple-choice questions with a countdown for each question.
-- Calculates scores based on correct answers.
-- Shows a detailed result summary with correct/incorrect answers for review.
+## TASK 4: ATM Interface
+A user-friendly Java-based ATM simulation that allows users to:
+
+- Check Balance: View the current account balance.
+- Deposit Funds: Add money to their account securely.
+- Withdraw Funds: Withdraw money with validation for sufficient balance.
+- Menu Navigation: Interact with a simple menu to perform transactions.
+Includes input validation, success/error messages, and a smooth user experience.
 ### Output
+![image](https://github.com/user-attachments/assets/a5824ca2-b4b0-4b7f-aa39-b95bfd7f066e)
 
 ---
 ## How to Run the Programs Using CMD
