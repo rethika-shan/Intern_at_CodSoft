@@ -8,7 +8,8 @@ An interactive game where:
 - The user guesses the number with feedback (too high/low/correct).
 - Features include limited attempts, multi-round gameplay, and performance-based scoring.
 ### Output
-![image](https://github.com/user-attachments/assets/dd6da5e2-3a46-4a7d-9524-2c205132c90f)
+![image](https://github.com/user-attachments/assets/b05c6125-f7da-41a5-9a3c-e4b63b4268ee)
+
 
 ---
 ## TASK 2: Student Grade Calculator
@@ -17,6 +18,7 @@ A system that:
 - Calculates total marks, average percentage, and assigns grades based on predefined criteria.
 - Displays the results in a clean and formatted output.
 ### Output
+![image](https://github.com/user-attachments/assets/dd6da5e2-3a46-4a7d-9524-2c205132c90f)
 
 ---
 ## TASK 4: Quiz Application With Timer
